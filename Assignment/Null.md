@@ -8,13 +8,13 @@
 # NM ID - 24FF59930EAF3B3969D49752A465CBA8
 (Aarthi N)
 - __Facebook URL__: https://m.facebook.com/profile.php/?id=61552312522268
-- __Blog link__: https://spaceofaarthi.blogspot.com/2023/08/story-of-chandrayaan-3.html
+- __Blog URL__: https://spaceofaarthi.blogspot.com/2023/08/story-of-chandrayaan-3.html
 - __Newsletter Blog URL__:https://spaceofaarthi.blogspot.com/2023/09/email-newsletter-chandrayaan-3-updates.html
 - __Facebook Post URL__:https://www.facebook.com/photo?fbid=122094265796077084&set=a.122094267032077084
 
 # NM ID - 708928AAE077CDBB1AC4507BBCEEF044
 (Karthika S)
-- __Blog__ : https://karthisfood.blogspot.com/
+- __Blog URL__ : https://karthisfood.blogspot.com/
 - __Facebook Post URL__ :https://m.facebook.com/story.php?story_fbid=pfbid04aJjN9KM9pdPCixyCGqS5J2D4BDeUTgDY4ChmbnnhnuwpKbdonomSgunUdejj8oyl&id=61551768367009&mibextid=Nif5oz
 - __EmailNewsletter__ : https://karthisfood.blogspot.com/
 - __Facebook URL__ : https://www.facebook.com/profile.php?id=61551768367009
